@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/m0han-raj/full_DSA_450/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/m0han-raj/full_DSA_450/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
