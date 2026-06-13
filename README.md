@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/m0han-raj/full_DSA_450/tree/master/0055-jump-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/m0han-raj/full_DSA_450/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0287-find-the-duplicate-number) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/m0han-raj/full_DSA_450/tree/master/0055-jump-game) |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
