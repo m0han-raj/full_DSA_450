@@ -8,7 +8,7 @@ class Solution:
 
             # If current number is negative, swap max and min
             if nums[i] < 0:
-                currMax, currMin = currMin, currMax
+                currMax, currMin = currMin, currMax # soul of the code here
 
             currMax = max(nums[i], currMax * nums[i])
             currMin = min(nums[i], currMin * nums[i])
