@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/m0han-raj/full_DSA_450/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/m0han-raj/full_DSA_450/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/m0han-raj/full_DSA_450/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m0han-raj/full_DSA_450/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/m0han-raj/full_DSA_450/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/m0han-raj/full_DSA_450/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
