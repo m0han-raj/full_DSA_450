@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
+| [0880-decoded-string-at-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0880-decoded-string-at-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
 | [2487-remove-nodes-from-linked-list](https://github.com/m0han-raj/full_DSA_450/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m0han-raj/full_DSA_450/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/m0han-raj/full_DSA_450/tree/master/0020-valid-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0880-decoded-string-at-index) |
 ## Matrix
 |  |
 | ------- |
