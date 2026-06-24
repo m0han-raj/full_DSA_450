@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/m0han-raj/full_DSA_450/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/m0han-raj/full_DSA_450/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/m0han-raj/full_DSA_450/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/m0han-raj/full_DSA_450/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/m0han-raj/full_DSA_450/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
