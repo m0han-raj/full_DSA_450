@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/m0han-raj/full_DSA_450/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/m0han-raj/full_DSA_450/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0680-valid-palindrome-ii) |
 | [0880-decoded-string-at-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0880-decoded-string-at-index) |
 ## Matrix
@@ -200,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
