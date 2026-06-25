@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0796-rotate-string) |
 | [0880-decoded-string-at-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0880-decoded-string-at-index) |
 ## Matrix
 |  |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
