@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/m0han-raj/full_DSA_450/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/m0han-raj/full_DSA_450/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/m0han-raj/full_DSA_450/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/m0han-raj/full_DSA_450/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/m0han-raj/full_DSA_450/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0680-valid-palindrome-ii) |
 | [0880-decoded-string-at-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0880-decoded-string-at-index) |
 ## Matrix
 |  |
