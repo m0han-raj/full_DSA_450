@@ -214,4 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
