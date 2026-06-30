@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0152-maximum-product-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/m0han-raj/full_DSA_450/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/m0han-raj/full_DSA_450/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0796-rotate-string) |
 | [0880-decoded-string-at-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0880-decoded-string-at-index) |
+| [1143-longest-common-subsequence](https://github.com/m0han-raj/full_DSA_450/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
