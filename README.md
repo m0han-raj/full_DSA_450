@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/m0han-raj/full_DSA_450/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/m0han-raj/full_DSA_450/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/m0han-raj/full_DSA_450/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/m0han-raj/full_DSA_450/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/m0han-raj/full_DSA_450/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/m0han-raj/full_DSA_450/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/m0han-raj/full_DSA_450/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/m0han-raj/full_DSA_450/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/m0han-raj/full_DSA_450/tree/master/0316-remove-duplicate-letters) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/m0han-raj/full_DSA_450/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 ## Union-Find
 |  |
 | ------- |
@@ -267,4 +270,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
