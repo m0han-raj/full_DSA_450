@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/m0han-raj/full_DSA_450/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/m0han-raj/full_DSA_450/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0387-first-unique-character-in-a-string) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/m0han-raj/full_DSA_450/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/m0han-raj/full_DSA_450/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/m0han-raj/full_DSA_450/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
