@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
 ## Stack
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m0han-raj/full_DSA_450/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/m0han-raj/full_DSA_450/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/m0han-raj/full_DSA_450/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/m0han-raj/full_DSA_450/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/m0han-raj/full_DSA_450/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/m0han-raj/full_DSA_450/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/m0han-raj/full_DSA_450/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/m0han-raj/full_DSA_450/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0387-first-unique-character-in-a-string) |
@@ -283,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
