@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/m0han-raj/full_DSA_450/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/m0han-raj/full_DSA_450/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/m0han-raj/full_DSA_450/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0516-longest-palindromic-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/m0han-raj/full_DSA_450/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/m0han-raj/full_DSA_450/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/m0han-raj/full_DSA_450/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0229-majority-element-ii) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/m0han-raj/full_DSA_450/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/m0han-raj/full_DSA_450/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/m0han-raj/full_DSA_450/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/m0han-raj/full_DSA_450/tree/master/0316-remove-duplicate-letters) |
@@ -300,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/m0han-raj/full_DSA_450/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/m0han-raj/full_DSA_450/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
