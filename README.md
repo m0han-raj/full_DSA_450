@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/m0han-raj/full_DSA_450/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/m0han-raj/full_DSA_450/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0556-next-greater-element-iii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/m0han-raj/full_DSA_450/tree/master/3805-count-caesar-cipher-pairs) |
 ## Array
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/m0han-raj/full_DSA_450/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0556-next-greater-element-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/m0han-raj/full_DSA_450/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/m0han-raj/full_DSA_450/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0556-next-greater-element-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/m0han-raj/full_DSA_450/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0796-rotate-string) |
