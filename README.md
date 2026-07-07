@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/m0han-raj/full_DSA_450/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/m0han-raj/full_DSA_450/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/m0han-raj/full_DSA_450/tree/master/0055-jump-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/m0han-raj/full_DSA_450/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/m0han-raj/full_DSA_450/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/m0han-raj/full_DSA_450/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/m0han-raj/full_DSA_450/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/m0han-raj/full_DSA_450/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/m0han-raj/full_DSA_450/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/m0han-raj/full_DSA_450/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/m0han-raj/full_DSA_450/tree/master/0076-minimum-window-substring) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/m0han-raj/full_DSA_450/tree/master/0044-wildcard-matching) |
 | [2487-remove-nodes-from-linked-list](https://github.com/m0han-raj/full_DSA_450/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
