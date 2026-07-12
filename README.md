@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/m0han-raj/full_DSA_450/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/m0han-raj/full_DSA_450/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/m0han-raj/full_DSA_450/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/m0han-raj/full_DSA_450/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/m0han-raj/full_DSA_450/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/m0han-raj/full_DSA_450/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/m0han-raj/full_DSA_450/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 ## Union-Find
 |  |
