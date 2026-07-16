@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/m0han-raj/full_DSA_450/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/m0han-raj/full_DSA_450/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/m0han-raj/full_DSA_450/tree/master/2643-row-with-maximum-ones) |
 | [3805-count-caesar-cipher-pairs](https://github.com/m0han-raj/full_DSA_450/tree/master/3805-count-caesar-cipher-pairs) |
 ## Divide and Conquer
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
+| [2643-row-with-maximum-ones](https://github.com/m0han-raj/full_DSA_450/tree/master/2643-row-with-maximum-ones) |
 ## Union-Find
 |  |
 | ------- |
