@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/m0han-raj/full_DSA_450/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/m0han-raj/full_DSA_450/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/m0han-raj/full_DSA_450/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/m0han-raj/full_DSA_450/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/m0han-raj/full_DSA_450/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/m0han-raj/full_DSA_450/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/m0han-raj/full_DSA_450/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/m0han-raj/full_DSA_450/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/m0han-raj/full_DSA_450/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/m0han-raj/full_DSA_450/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/m0han-raj/full_DSA_450/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/m0han-raj/full_DSA_450/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/m0han-raj/full_DSA_450/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/m0han-raj/full_DSA_450/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/m0han-raj/full_DSA_450/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/m0han-raj/full_DSA_450/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/m0han-raj/full_DSA_450/tree/master/0085-maximal-rectangle) |
 | [2643-row-with-maximum-ones](https://github.com/m0han-raj/full_DSA_450/tree/master/2643-row-with-maximum-ones) |
 ## Union-Find
 |  |
