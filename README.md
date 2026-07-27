@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0496-next-greater-element-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/m0han-raj/full_DSA_450/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/m0han-raj/full_DSA_450/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/m0han-raj/full_DSA_450/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/m0han-raj/full_DSA_450/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/m0han-raj/full_DSA_450/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
 | [3805-count-caesar-cipher-pairs](https://github.com/m0han-raj/full_DSA_450/tree/master/3805-count-caesar-cipher-pairs) |
 ## Counting
 |  |
