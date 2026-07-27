@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/m0han-raj/full_DSA_450/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/m0han-raj/full_DSA_450/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/m0han-raj/full_DSA_450/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/m0han-raj/full_DSA_450/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0556-next-greater-element-iii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/m0han-raj/full_DSA_450/tree/master/3805-count-caesar-cipher-pairs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/m0han-raj/full_DSA_450/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/m0han-raj/full_DSA_450/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0287-find-the-duplicate-number) |
