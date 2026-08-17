@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/m0han-raj/full_DSA_450/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/m0han-raj/full_DSA_450/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/m0han-raj/full_DSA_450/tree/master/2643-row-with-maximum-ones) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
 | [0880-decoded-string-at-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0880-decoded-string-at-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/m0han-raj/full_DSA_450/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/m0han-raj/full_DSA_450/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2487-remove-nodes-from-linked-list](https://github.com/m0han-raj/full_DSA_450/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
@@ -337,18 +340,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/m0han-raj/full_DSA_450/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/m0han-raj/full_DSA_450/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/m0han-raj/full_DSA_450/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
