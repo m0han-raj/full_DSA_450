@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/m0han-raj/full_DSA_450/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/m0han-raj/full_DSA_450/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/m0han-raj/full_DSA_450/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/m0han-raj/full_DSA_450/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/m0han-raj/full_DSA_450/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/m0han-raj/full_DSA_450/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/m0han-raj/full_DSA_450/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/m0han-raj/full_DSA_450/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0098-validate-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/m0han-raj/full_DSA_450/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/1382-balance-a-binary-search-tree) |
 ## Rolling Hash
 |  |
