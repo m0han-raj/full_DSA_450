@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/m0han-raj/full_DSA_450/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/m0han-raj/full_DSA_450/tree/master/0556-next-greater-element-iii) |
+| [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 | [3805-count-caesar-cipher-pairs](https://github.com/m0han-raj/full_DSA_450/tree/master/3805-count-caesar-cipher-pairs) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
+| [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/m0han-raj/full_DSA_450/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/m0han-raj/full_DSA_450/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/m0han-raj/full_DSA_450/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/m0han-raj/full_DSA_450/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/m0han-raj/full_DSA_450/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
@@ -102,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -396,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/m0han-raj/full_DSA_450/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
