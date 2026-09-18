@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/m0han-raj/full_DSA_450/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/m0han-raj/full_DSA_450/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/m0han-raj/full_DSA_450/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/m0han-raj/full_DSA_450/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/m0han-raj/full_DSA_450/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/m0han-raj/full_DSA_450/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/m0han-raj/full_DSA_450/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/m0han-raj/full_DSA_450/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/m0han-raj/full_DSA_450/tree/master/0316-remove-duplicate-letters) |
+| [0621-task-scheduler](https://github.com/m0han-raj/full_DSA_450/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/m0han-raj/full_DSA_450/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/m0han-raj/full_DSA_450/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
 | [3805-count-caesar-cipher-pairs](https://github.com/m0han-raj/full_DSA_450/tree/master/3805-count-caesar-cipher-pairs) |
 ## Counting
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/m0han-raj/full_DSA_450/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/m0han-raj/full_DSA_450/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/m0han-raj/full_DSA_450/tree/master/0621-task-scheduler) |
 | [3805-count-caesar-cipher-pairs](https://github.com/m0han-raj/full_DSA_450/tree/master/3805-count-caesar-cipher-pairs) |
 ## String
 |  |
