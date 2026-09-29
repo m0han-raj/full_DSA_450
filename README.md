@@ -418,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/m0han-raj/full_DSA_450/tree/master/0973-k-closest-points-to-origin) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
