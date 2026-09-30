@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/m0han-raj/full_DSA_450/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/m0han-raj/full_DSA_450/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/m0han-raj/full_DSA_450/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/m0han-raj/full_DSA_450/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/m0han-raj/full_DSA_450/tree/master/0739-daily-temperatures) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/m0han-raj/full_DSA_450/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/m0han-raj/full_DSA_450/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/m0han-raj/full_DSA_450/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/m0han-raj/full_DSA_450/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
