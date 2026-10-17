@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/m0han-raj/full_DSA_450/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/m0han-raj/full_DSA_450/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/m0han-raj/full_DSA_450/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/m0han-raj/full_DSA_450/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/m0han-raj/full_DSA_450/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/m0han-raj/full_DSA_450/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/m0han-raj/full_DSA_450/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/m0han-raj/full_DSA_450/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/m0han-raj/full_DSA_450/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0516-longest-palindromic-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/m0han-raj/full_DSA_450/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/m0han-raj/full_DSA_450/tree/master/1143-longest-common-subsequence) |
@@ -450,4 +452,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/m0han-raj/full_DSA_450/tree/master/0204-count-primes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/m0han-raj/full_DSA_450/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/m0han-raj/full_DSA_450/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/m0han-raj/full_DSA_450/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
