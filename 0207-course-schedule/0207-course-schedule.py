@@ -1,17 +1,17 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
-        graph = [[] for _ in range(numCourses)]
-        indegree = [0] * numCourses
-        taken=0
+        graph= [[] for _ in range(numCourses)]
+        indegree = [0]*numCourses
+        taken = 0
 
         for course , pre in prerequisites:
             graph[pre].append(course)
-            indegree[course] +=1
+            indegree[course]+=1
         
         queue = deque(i for i in range(numCourses) if indegree[i]==0)
 
         while queue:
-            node = queue.popleft()
+            node = queue.pop()
             taken+=1
             for nxt in graph[node]:
                 indegree[nxt]-=1
