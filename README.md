@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/m0han-raj/full_DSA_450/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/m0han-raj/full_DSA_450/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/m0han-raj/full_DSA_450/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/m0han-raj/full_DSA_450/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/m0han-raj/full_DSA_450/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/m0han-raj/full_DSA_450/tree/master/0215-kth-largest-element-in-an-array) |
@@ -332,12 +333,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/m0han-raj/full_DSA_450/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/m0han-raj/full_DSA_450/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/m0han-raj/full_DSA_450/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/m0han-raj/full_DSA_450/tree/master/2643-row-with-maximum-ones) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/m0han-raj/full_DSA_450/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/m0han-raj/full_DSA_450/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/m0han-raj/full_DSA_450/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/m0han-raj/full_DSA_450/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/m0han-raj/full_DSA_450/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/m0han-raj/full_DSA_450/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/m0han-raj/full_DSA_450/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/m0han-raj/full_DSA_450/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/m0han-raj/full_DSA_450/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/m0han-raj/full_DSA_450/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/m0han-raj/full_DSA_450/tree/master/0322-coin-change) |
 ## Knapsack Problem
